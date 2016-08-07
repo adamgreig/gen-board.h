@@ -37,7 +37,7 @@ HEADER = textwrap.dedent("""\
 /*
     Board identifier
 */
-#define BOARD_
+#define BOARD_{name}
 #define BOARD_NAME                     "{name}"
 
 /*
